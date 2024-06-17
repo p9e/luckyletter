@@ -1,0 +1,13 @@
+.hip { font: max(4vw, 20pt) sans-serif }
+.lip { display: contents }
+.bit { font: 400 2em sans-serif }
+dt { margin: 0 }
+dd { margin: 0 }
+.lye { text-align: left }
+.rye { text-align: right }
+.eye { text-align: center }
+.nip {}
+.nap { font-weight: lighter }
+.wub { font-weight: bolder }
+.wuv { text-decoration-style: wavy }
+.wah :focus { outline: thick dotted }

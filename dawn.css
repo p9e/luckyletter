@@ -1,0 +1,29 @@
+::selection {
+  background: indigo;
+  color: pink;
+}
+
+:root {
+  background: #ddd;
+  color: #200305;
+}
+
+:any-link {
+  background: mistyrose;
+  color: darkmagenta;
+}
+
+:focus {
+  outline-color: currentColor;
+}
+
+:any-link:hover {
+  background: darkviolet;
+  color: peachpuff;
+  text-decoration-color: gold;
+}
+
+dl {
+  background: violet;
+  color: #100;
+}
